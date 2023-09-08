@@ -1,0 +1,42 @@
+[
+    {
+        "image": "https://cdn.pixabay.com/photo/2019/02/26/13/42/pumpkin-4022029_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706_640.jpg",
+        "category": "snacks"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/25/07/15/food-3179853_640.jpg",
+        "category": "Dairy"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2017/06/02/18/24/watermelon-2367029_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/06/25/13/00/cream-3496778_640.jpg",
+        "category": "Personal Care"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2021/10/06/05/39/sauces-6684460_640.jpg",
+        "category": "Canned Goods"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2014/06/16/23/10/spices-370114_640.jpg",
+        "category": "spices"
+    },
+    {
+        "image": "https://media.istockphoto.com/id/481882305/photo/different-types-of-cereal-grains-with-ears.webp?b=1&s=612x612&w=0&k=20&c=uIjFZK9ekTQ_yAhVWaR31-W5hHgj6m-XfNsevf-AqOA=",
+        "category": "Grains"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2020/01/12/18/19/pulses-4760706_640.jpg",
+        "category": "Pulses"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2016/10/30/09/30/hot-chocolate-1782623_640.jpg",
+        "category": "Beverages"
+    }
+]

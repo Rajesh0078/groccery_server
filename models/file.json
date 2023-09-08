@@ -1,0 +1,1604 @@
+[
+    {
+        "name": "Organic Carrots",
+        "description": "Fresh organic carrots, great for salads and snacking.",
+        "price": 2.99,
+        "stock": 100,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2016/11/23/00/22/carrots-1851424_1280.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Broccoli",
+        "description": "Nutrient-rich organic broccoli, perfect for steaming or stir-frying.",
+        "price": 3.49,
+        "stock": 80,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2014/10/22/18/34/broccoli-498600_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Tomatoes",
+        "description": "Sweet and juicy organic tomatoes, perfect for salads and sandwiches.",
+        "price": 1.99,
+        "stock": 120,
+        "rating": 4.7,
+        "image": "https://cdn.pixabay.com/photo/2016/08/09/10/30/tomatoes-1580273_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Green Bell Pepper",
+        "description": "Fresh green bell pepper, great for adding flavor to your dishes.",
+        "price": 1.49,
+        "stock": 75,
+        "rating": 4.0,
+        "image": "https://cdn.pixabay.com/photo/2016/03/18/00/58/bell-peppers-1264209_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Spinach",
+        "description": "Fresh organic spinach, rich in nutrients for your salads and smoothies.",
+        "price": 2.49,
+        "stock": 90,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2016/05/31/17/06/spinach-1427360_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Cucumbers",
+        "description": "Crisp and refreshing cucumbers, great for salads and pickling.",
+        "price": 1.29,
+        "stock": 110,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2015/07/17/13/44/cucumbers-849269_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Zucchini",
+        "description": "Versatile zucchini, perfect for grilling, roasting, or sautéing.",
+        "price": 1.79,
+        "stock": 60,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2014/12/18/15/45/zucchini-572542_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Red Bell Pepper",
+        "description": "Vibrant red bell pepper, great for salads and roasting.",
+        "price": 1.59,
+        "stock": 85,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2014/12/15/13/40/bell-pepper-569070_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Yellow Bell Pepper",
+        "description": "Bright yellow bell pepper, perfect for stuffing and grilling.",
+        "price": 1.59,
+        "stock": 70,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2016/07/23/14/26/sweet-pepper-1536941_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Organic Kale",
+        "description": "Nutrient-packed organic kale, ideal for salads and smoothies.",
+        "price": 2.99,
+        "stock": 95,
+        "rating": 4.6,
+        "image": "https://cdn.pixabay.com/photo/2017/05/16/08/09/kale-2317181_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Lettuce",
+        "description": "Crisp and fresh lettuce leaves, perfect for salads and sandwiches.",
+        "price": 1.49,
+        "stock": 110,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2015/05/30/01/18/vegetables-790022_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Cabbage",
+        "description": "Savory cabbage, great for coleslaw and stir-fries.",
+        "price": 1.29,
+        "stock": 75,
+        "rating": 4.1,
+        "image": "https://cdn.pixabay.com/photo/2018/10/03/21/57/cabbage-3722498_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Radishes",
+        "description": "Crisp and spicy radishes, perfect for salads and garnishes.",
+        "price": 1.09,
+        "stock": 120,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2016/07/23/17/10/radish-1537141_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Sweet Potatoes",
+        "description": "Delicious sweet potatoes, great for roasting and mashing.",
+        "price": 2.29,
+        "stock": 65,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2016/08/23/17/12/sweet-potato-1615024_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Green Beans",
+        "description": "Fresh green beans, ideal for steaming and sautéing.",
+        "price": 1.79,
+        "stock": 80,
+        "rating": 4.0,
+        "image": "https://cdn.pixabay.com/photo/2015/09/18/16/05/seed-945877_1280.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Cauliflower",
+        "description": "Versatile cauliflower, great for roasting and making cauliflower rice.",
+        "price": 2.49,
+        "stock": 70,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2016/09/04/17/28/cauliflower-1644626_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Eggplant",
+        "description": "Rich and creamy eggplant, perfect for grilling and roasting.",
+        "price": 1.89,
+        "stock": 55,
+        "rating": 4.1,
+        "image": "https://cdn.pixabay.com/photo/2018/10/19/13/47/eggplant-3758698_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Asparagus",
+        "description": "Tender asparagus spears, great for grilling and roasting.",
+        "price": 2.99,
+        "stock": 65,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2018/05/29/23/14/asparagus-3440348_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Mushrooms",
+        "description": "Savory mushrooms, perfect for stir-fries and pasta dishes.",
+        "price": 2.29,
+        "stock": 90,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2017/05/02/22/43/mushrooms-2279558_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Cilantro",
+        "description": "Fresh cilantro leaves, great for adding flavor to your dishes.",
+        "price": 0.99,
+        "stock": 120,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2019/01/13/12/25/coriander-3930225_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Parsley",
+        "description": "Vibrant parsley leaves, perfect for garnishing your meals.",
+        "price": 0.99,
+        "stock": 110,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2014/02/07/15/32/parsley-261039_1280.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Onions",
+        "description": "Sweet and pungent onions, great for adding depth of flavor to your dishes.",
+        "price": 1.19,
+        "stock": 100,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2016/03/05/19/14/onions-1238332_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Garlic",
+        "description": "Aromatic garlic bulbs, perfect for enhancing the taste of your meals.",
+        "price": 1.29,
+        "stock": 95,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2018/05/21/21/23/garlic-3419544_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Ginger",
+        "description": "Spicy ginger root, great for adding a kick to your dishes.",
+        "price": 1.49,
+        "stock": 80,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2016/10/13/15/50/ginger-1738098_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Peas",
+        "description": "Tender green peas, great for adding to your favorite dishes.",
+        "price": 1.29,
+        "stock": 100,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2016/02/17/19/14/peas-1205673_1280.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Artichokes",
+        "description": "Delicate artichoke hearts, perfect for salads and dips.",
+        "price": 2.79,
+        "stock": 60,
+        "rating": 4.1,
+        "image": "https://cdn.pixabay.com/photo/2018/05/10/02/20/artichoke-3386681_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Beets",
+        "description": "Sweet and earthy beets, perfect for roasting and salads.",
+        "price": 1.59,
+        "stock": 90,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2015/03/24/08/52/beetroot-687251_1280.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Celeriac",
+        "description": "Nutty and celery-flavored celeriac, great for soups and mashes.",
+        "price": 1.69,
+        "stock": 70,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2014/04/07/02/03/celery-318168_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Okra",
+        "description": "Tender okra pods, perfect for gumbo and stir-fries.",
+        "price": 1.99,
+        "stock": 65,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2020/06/21/05/20/vegetable-5323257_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Pumpkin",
+        "description": "Sweet and versatile pumpkin, great for pies and soups.",
+        "price": 2.29,
+        "stock": 70,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2021/09/20/16/47/pumpkins-6641314_640.jpg",
+        "category": "Vegetables"
+    },
+    {
+        "name": "Organic Apples",
+        "description": "Crisp and sweet organic apples, perfect for snacking.",
+        "price": 1.99,
+        "stock": 120,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2017/09/26/13/21/apples-2788599_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Bananas",
+        "description": "Ripe and creamy bananas, great for smoothies and desserts.",
+        "price": 0.79,
+        "stock": 150,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2015/02/27/17/58/bananas-652497_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Strawberries",
+        "description": "Juicy and sweet strawberries, perfect for salads and desserts.",
+        "price": 3.49,
+        "stock": 90,
+        "rating": 4.7,
+        "image": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Blueberries",
+        "description": "Plump and flavorful blueberries, great for snacking and baking.",
+        "price": 2.99,
+        "stock": 80,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2017/05/02/18/20/blueberries-2278921_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Grapes",
+        "description": "Sweet and juicy grapes, perfect for a refreshing snack.",
+        "price": 2.49,
+        "stock": 100,
+        "rating": 4.6,
+        "image": "https://cdn.pixabay.com/photo/2021/01/05/05/30/grapes-5889697_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Pineapples",
+        "description": "Tropical and tangy pineapples, great for cocktails and fruit salads.",
+        "price": 2.79,
+        "stock": 70,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2015/02/14/18/10/pineapple-636562_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Oranges",
+        "description": "Sweet and juicy oranges, perfect for fresh-squeezed juice.",
+        "price": 1.49,
+        "stock": 110,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/oranges-1995056_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Kiwi",
+        "description": "Tropical and tart kiwi, great for snacking and fruit salads.",
+        "price": 1.79,
+        "stock": 90,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2014/07/23/11/51/kiwifruit-400143_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Mangoes",
+        "description": "Sweet and succulent mangoes, perfect for smoothies and desserts.",
+        "price": 2.99,
+        "stock": 85,
+        "rating": 4.6,
+        "image": "https://cdn.pixabay.com/photo/2020/04/01/18/27/yellow-4992183_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Watermelons",
+        "description": "Juicy and refreshing watermelons, great for picnics and barbecues.",
+        "price": 3.99,
+        "stock": 60,
+        "rating": 4.7,
+        "image": "https://cdn.pixabay.com/photo/2018/08/04/23/43/watermelon-3584717_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Peaches",
+        "description": "Sweet and velvety peaches, perfect for cobblers and pies.",
+        "price": 1.99,
+        "stock": 100,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2016/07/16/20/48/peaches-1522680_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Pears",
+        "description": "Crisp and juicy pears, great for snacking and salads.",
+        "price": 1.79,
+        "stock": 110,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2018/07/24/21/47/pear-3560106_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Cherries",
+        "description": "Sweet and plump cherries, perfect for snacking and desserts.",
+        "price": 2.49,
+        "stock": 95,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2017/06/14/15/18/cherries-2402449_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Raspberries",
+        "description": "Tangy and flavorful raspberries, great for adding to yogurt and pastries.",
+        "price": 3.99,
+        "stock": 70,
+        "rating": 4.6,
+        "image": "https://cdn.pixabay.com/photo/2016/05/31/13/01/raspberries-1426859_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Blackberries",
+        "description": "Rich and earthy blackberries, perfect for pies and jams.",
+        "price": 3.49,
+        "stock": 75,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2016/07/24/23/35/blackberries-1539540_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Cranberries",
+        "description": "Tart and tangy cranberries, great for cranberry sauce and muffins.",
+        "price": 2.29,
+        "stock": 90,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2012/03/04/00/42/backdrop-22024_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Lemons",
+        "description": "Zesty and aromatic lemons, perfect for cooking and cocktails.",
+        "price": 1.29,
+        "stock": 120,
+        "rating": 4.7,
+        "image": "https://cdn.pixabay.com/photo/2017/02/05/12/31/lemons-2039830_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Grapefruits",
+        "description": "Citrusy and slightly bitter grapefruits, perfect for breakfast and salads.",
+        "price": 1.69,
+        "stock": 95,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2016/09/05/20/52/grapefruit-1647688_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Dragon Fruit",
+        "description": "Exotic and vibrant dragon fruit, great for fruit bowls and smoothies.",
+        "price": 4.99,
+        "stock": 50,
+        "rating": 4.8,
+        "image": "https://cdn.pixabay.com/photo/2013/02/21/19/14/dragon-fruit-84719_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Guava",
+        "description": "Sweet and fragrant guava, great for juices and jams.",
+        "price": 2.49,
+        "stock": 80,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2013/09/29/23/59/guava-188440_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Papaya",
+        "description": "Tropical and sweet papaya, perfect for fruit salads and smoothies.",
+        "price": 2.69,
+        "stock": 70,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2018/09/03/19/08/papaya-3652074_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Cantaloupe",
+        "description": "Sweet and fragrant cantaloupe, great for fruit salads and breakfast.",
+        "price": 2.29,
+        "stock": 75,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2015/06/17/10/15/cantaloupe-812214_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Honeydew Melon",
+        "description": "Sweet and refreshing honeydew melon, perfect for fruit cups and smoothies.",
+        "price": 2.49,
+        "stock": 60,
+        "rating": 4.1,
+        "image": "https://cdn.pixabay.com/photo/2016/11/13/19/26/melon-1821790_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Avocado",
+        "description": "Creamy and versatile avocados, great for guacamole and salads.",
+        "price": 1.99,
+        "stock": 90,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2018/03/09/08/04/avocado-3210885_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Coconuts",
+        "description": "Tropical coconuts with sweet water and flesh, great for coconut water and desserts.",
+        "price": 2.99,
+        "stock": 65,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2016/07/06/20/56/coconut-1501334_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Lychee",
+        "description": "Exotic and sweet lychee, perfect for snacking and desserts.",
+        "price": 3.29,
+        "stock": 70,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2014/11/07/11/13/lychees-520481_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Jackfruit",
+        "description": "Large and sweet jackfruit pods, perfect for curries and desserts.",
+        "price": 4.79,
+        "stock": 45,
+        "rating": 4.1,
+        "image": "https://cdn.pixabay.com/photo/2017/03/01/15/50/jackfruit-2108869_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Mangosteen",
+        "description": "Exotic and juicy mangosteen, great for snacking and fruit salads.",
+        "price": 5.49,
+        "stock": 50,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2015/06/16/12/00/mangosteen-811154_640.jpg",
+        "category": "Fruits"
+    },
+    {
+        "name": "Cinnamon",
+        "description": "Aromatic spice commonly used in baking and cooking.",
+        "price": 3.99,
+        "stock": 100,
+        "rating": 4.7,
+        "image": "https://cdn.pixabay.com/photo/2017/12/01/16/14/cookies-2991174_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Turmeric",
+        "description": "Bright yellow spice with anti-inflammatory properties.",
+        "price": 2.49,
+        "stock": 80,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2018/03/22/19/21/turmeric-3251560_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Paprika",
+        "description": "Sweet or hot spice made from dried red peppers.",
+        "price": 2.99,
+        "stock": 75,
+        "rating": 4.6,
+        "image": "https://cdn.pixabay.com/photo/2014/06/16/23/10/spices-370114_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Red Chilli",
+        "description": "Spicy pepper used to add heat to dishes.",
+        "price": 2.79,
+        "stock": 60,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2017/09/23/18/55/cayenne-peppers-2779834_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Black Pepper",
+        "description": "Classic spice known for its strong flavor.",
+        "price": 1.99,
+        "stock": 90,
+        "rating": 4.8,
+        "image": "https://cdn.pixabay.com/photo/2020/08/19/15/32/pepper-5501218_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Coriander",
+        "description": "Mild spice with a citrusy flavor used in various cuisines.",
+        "price": 3.49,
+        "stock": 70,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/508457072/photo/coriander-powder-aromatic-ingredients-on-rustic-wooden-table.webp?b=1&s=612x612&w=0&k=20&c=RAgm6zaiPbFqoOalgAaNdiXsPJXn8qleJvtPdxubL34=",
+        "category": "spices"
+    },
+    {
+        "name": "Ginger",
+        "description": "Spicy and aromatic root often used in Asian dishes.",
+        "price": 4.29,
+        "stock": 50,
+        "rating": 4.6,
+        "image": "https://cdn.pixabay.com/photo/2016/02/10/15/48/spices-1191945_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Cardamom",
+        "description": "Warm and aromatic spice used in both sweet and savory dishes.",
+        "price": 5.99,
+        "stock": 40,
+        "rating": 4.7,
+        "image": "https://cdn.pixabay.com/photo/2017/04/22/17/19/cardamom-2251874_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Cloves",
+        "description": "Strong, sweet spice often used in holiday recipes.",
+        "price": 4.49,
+        "stock": 65,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2018/05/21/21/23/garlic-3419544_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Chili Powder",
+        "description": "Spice blend for adding heat to Mexican and Tex-Mex dishes.",
+        "price": 2.89,
+        "stock": 75,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2014/03/17/14/41/red-289144_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Rosemary",
+        "description": "Aromatic herb used as a spice in various dishes.",
+        "price": 2.29,
+        "stock": 85,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2015/08/14/17/56/herbs-888734_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Thyme",
+        "description": "Herb with a subtle earthy flavor used in many cuisines.",
+        "price": 2.19,
+        "stock": 95,
+        "rating": 4.6,
+        "image": "https://cdn.pixabay.com/photo/2017/06/19/11/47/spices-2419057_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Oregano",
+        "description": "Mediterranean herb often used in Italian and Greek dishes.",
+        "price": 1.99,
+        "stock": 100,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2014/04/10/15/37/oregano-321033_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Basil",
+        "description": "Sweet and fragrant herb commonly used in Italian cooking.",
+        "price": 2.49,
+        "stock": 80,
+        "rating": 4.7,
+        "image": "https://cdn.pixabay.com/photo/2016/03/10/18/44/top-view-1248955_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Parsley",
+        "description": "Mild herb used for garnishing and adding freshness.",
+        "price": 1.79,
+        "stock": 110,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2016/09/12/18/27/parsley-1665402_640.jpg",
+        "category": "spices"
+    },
+    {
+        "name": "Quinoa",
+        "description": "A high-protein, gluten-free grain with a nutty flavor.",
+        "price": 4.99,
+        "stock": 100,
+        "rating": 4.7,
+        "image": "https://cdn.pixabay.com/photo/2015/02/27/01/10/grains-651404_640.jpg",
+        "category": "grains"
+    },
+    {
+        "name": "Oats",
+        "description": "Rolled or steel-cut, oats are a versatile and nutritious grain.",
+        "price": 2.99,
+        "stock": 75,
+        "rating": 4.6,
+        "image": "https://cdn.pixabay.com/photo/2015/01/30/17/16/muesli-617686_640.jpg",
+        "category": "grains"
+    },
+    {
+        "name": "Couscous",
+        "description": "Small, granular pasta made from durum wheat.",
+        "price": 3.49,
+        "stock": 60,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2015/09/18/14/58/citrus-couscous-945743_640.jpg",
+        "category": "grains"
+    },
+    {
+        "name": "Barley",
+        "description": "Hearty grain often used in soups and stews.",
+        "price": 2.79,
+        "stock": 90,
+        "rating": 4.8,
+        "image": "https://cdn.pixabay.com/photo/2015/02/18/16/10/wheat-640960_640.jpg",
+        "category": "grains"
+    },
+    {
+        "name": "Millet",
+        "description": "Small, round grain with a mild, slightly sweet flavor.",
+        "price": 2.69,
+        "stock": 45,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2018/08/12/19/49/grains-3601581_640.jpg",
+        "category": "grains"
+    },
+    {
+        "name": "Wheat Berries",
+        "description": "Whole wheat kernels with a chewy texture.",
+        "price": 3.49,
+        "stock": 65,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/476080311/photo/hard-red-wheat-berries.webp?b=1&s=612x612&w=0&k=20&c=V4wTxIyPDykCacIWFg5U3dfmRysH_tRACTckPh6JnaY=",
+        "category": "grains"
+    },
+    {
+        "name": "Rye Grain",
+        "description": "Nutty-flavored grain often used in breadmaking.",
+        "price": 2.39,
+        "stock": 60,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/489078546/photo/harvest.webp?b=1&s=612x612&w=0&k=20&c=1Irz5C1XK0PqYkef4HweMY7u4SCn3XgHYhjY95ZjZG0=",
+        "category": "grains"
+    },
+    {
+        "name": "White Rice",
+        "description": "Polished rice with a mild taste and fluffy texture.",
+        "price": 1.99,
+        "stock": 80,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2019/02/15/03/28/rice-3997767_640.jpg",
+        "category": "grains"
+    },
+    {
+        "name": "Amaranth",
+        "description": "Nutrient-dense grain with a peppery flavor.",
+        "price": 4.49,
+        "stock": 55,
+        "rating": 4.7,
+        "image": "https://media.istockphoto.com/id/864345784/photo/raw-organic-amaranth-grain.webp?b=1&s=612x612&w=0&k=20&c=k6c0LOhOYuNNAS6tdiUl13CebWn9zb0Cf7spJNfG9AA=",
+        "category": "grains"
+    },
+    {
+        "name": "Spelt",
+        "description": "Ancient grain with a mild, nutty flavor.",
+        "price": 3.29,
+        "stock": 40,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/1396438260/photo/emmer-wheat.webp?b=1&s=612x612&w=0&k=20&c=JM20tvbkbGQfEDuhLSUcMuoaeFp8nlkPOta2el3iFBM=",
+        "category": "grains"
+    },
+    {
+        "name": "Sorghum",
+        "description": "Gluten-free grain with a mild, sweet taste.",
+        "price": 2.99,
+        "stock": 65,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2014/02/26/13/20/sorghum-275258_640.jpg",
+        "category": "grains"
+    },
+    {
+        "name": "Buckwheat",
+        "description": "Nutty-flavored grain used in pancakes and porridge.",
+        "price": 3.49,
+        "stock": 60,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/114332953/photo/wooden-spoon-filled-with-buckwheat-grain.webp?b=1&s=612x612&w=0&k=20&c=IghwibEkA2Q5RLY7SUb08D6layqdUXK5G4mwBmpq83I=",
+        "category": "grains"
+    },
+    {
+        "name": "Pearl Barley",
+        "description": "Barley with the outer husk removed, used in soups and stews.",
+        "price": 2.79,
+        "stock": 75,
+        "rating": 4.8,
+        "image": "https://cdn.pixabay.com/photo/2022/01/13/08/19/buckwheat-6934666_640.jpg",
+        "category": "grains"
+    },
+    {
+        "name": "Green Tea",
+        "description": "Refreshing and antioxidant-rich green tea.",
+        "price": 2.49,
+        "stock": 150,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/978314674/photo/green-matcha-tea-powder.webp?b=1&s=612x612&w=0&k=20&c=pBt7YrBZ2XyrjJyBeJtWzVr5QoZOEPzoSbkb9efAbsg=",
+        "category": "Beverages"
+    },
+    {
+        "name": "Black Coffee",
+        "description": "Bold and aromatic black coffee.",
+        "price": 1.99,
+        "stock": 200,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2014/04/05/11/39/spoon-316577_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Orange Juice",
+        "description": "Freshly squeezed orange juice.",
+        "price": 3.99,
+        "stock": 100,
+        "rating": 4.6,
+        "image": "https://cdn.pixabay.com/photo/2016/08/23/15/52/fresh-orange-juice-1614822_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Lemonade",
+        "description": "Homemade zesty lemonade.",
+        "price": 2.79,
+        "stock": 120,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2015/08/25/16/12/lime-907124_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Iced Tea",
+        "description": "Cool and refreshing iced tea.",
+        "price": 2.19,
+        "stock": 150,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2014/01/10/04/30/iced-tea-241504_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Cappuccino",
+        "description": "Creamy and frothy cappuccino.",
+        "price": 3.49,
+        "stock": 90,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2015/05/07/13/46/cappuccino-756490_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Fruit Smoothie",
+        "description": "Blend of fresh fruits in a delightful smoothie.",
+        "price": 4.99,
+        "stock": 80,
+        "rating": 4.6,
+        "image": "https://cdn.pixabay.com/photo/2017/04/23/09/49/smoothies-2253430_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Hot Chocolate",
+        "description": "Warm and comforting hot chocolate.",
+        "price": 2.79,
+        "stock": 110,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2016/10/30/09/30/hot-chocolate-1782623_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Ginger Tea",
+        "description": "Soothing and spicy ginger tea.",
+        "price": 2.29,
+        "stock": 130,
+        "rating": 4.2,
+        "image": "https://cdn.pixabay.com/photo/2016/12/19/12/08/ginger-1918107_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Mango Lassi",
+        "description": "Creamy and sweet mango lassi.",
+        "price": 3.99,
+        "stock": 70,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/1257354750/it/foto/bevanda-allo-yogurt-al-mango-indiano-giallo-mango-lassi-o-frullato-con-curcuma-e-zafferano.webp?b=1&s=612x612&w=0&k=20&c=q_SL6OelLFJvOMdS4w22avfYjxLU804wWcPFNhCVUBo=",
+        "category": "Beverages"
+    },
+    {
+        "name": "Soda",
+        "description": "Fizzy and refreshing soda.",
+        "price": 1.49,
+        "stock": 160,
+        "rating": 4.1,
+        "image": "https://cdn.pixabay.com/photo/2016/07/22/20/52/cold-drink-1535766_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Coconut Water",
+        "description": "Hydrating and natural coconut water.",
+        "price": 2.99,
+        "stock": 100,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/1392313497/photo/coconut-and-its-water-in-a-glass.webp?b=1&s=612x612&w=0&k=20&c=L3T5ah90pIWG0BdWmA2xd0lvKUmQ6VCf2rCc_4DaQcU=",
+        "category": "Beverages"
+    },
+    {
+        "name": "Pomegranate Juice",
+        "description": "Tangy and antioxidant-rich pomegranate juice.",
+        "price": 3.79,
+        "stock": 95,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2021/05/14/16/06/pomegranate-6253869_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Chai Latte",
+        "description": "Spiced and creamy chai latte.",
+        "price": 3.29,
+        "stock": 85,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2020/02/13/14/43/cocoa-4845909_640.jpg",
+        "category": "Beverages"
+    },
+    {
+        "name": "Potato Chips",
+        "description": "Classic thin-sliced potato chips with a salty crunch.",
+        "price": 2.49,
+        "stock": 150,
+        "rating": 4.5,
+        "image": "https://cdn.pixabay.com/photo/2016/11/20/09/06/bowl-1842294_640.jpg",
+        "category": "snacks"
+    },
+    {
+        "name": "Popcorn",
+        "description": "Light and airy popped corn kernels, perfect for movie nights.",
+        "price": 1.99,
+        "stock": 120,
+        "rating": 4.4,
+        "image": "https://cdn.pixabay.com/photo/2015/12/09/17/12/popcorn-1085072_640.jpg",
+        "category": "snacks"
+    },
+    {
+        "name": "Pretzels",
+        "description": "Crunchy twisted pretzels, great for snacking or dipping.",
+        "price": 2.79,
+        "stock": 100,
+        "rating": 4.3,
+        "image": "https://cdn.pixabay.com/photo/2017/09/17/22/01/pretzels-2759994_640.jpg",
+        "category": "snacks"
+    },
+    {
+        "name": "Trail Mix",
+        "description": "A mix of nuts, dried fruits, and chocolate for a hearty snack.",
+        "price": 3.99,
+        "stock": 80,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/1186589597/photo/trail-mix-nuts-and-dried-fruits-a-great-snack-food.webp?b=1&s=612x612&w=0&k=20&c=bbdPxtZTmlVKvSn0DndbA4zbRmfGHa66hRbowv_b4QE=",
+        "category": "snacks"
+    },
+    {
+        "name": "Chocolate Bars",
+        "description": "Assorted chocolate bars with various flavors and fillings.",
+        "price": 1.49,
+        "stock": 200,
+        "rating": 4.7,
+        "image": "https://media.istockphoto.com/id/186682188/photo/chocolate-bar-with-a-missing-bite-on-white-background.jpg?s=612x612&w=0&k=20&c=mOscVi0weT7rT5bKoFdSWGGZ6-Wt7dkV77ajV-rnk80=",
+        "category": "snacks"
+    },
+    {
+        "name": "Granola Bars",
+        "description": "Nutritious bars with oats, nuts, and dried fruits for on-the-go snacking.",
+        "price": 2.29,
+        "stock": 120,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/185099151/photo/granola-bar.jpg?s=612x612&w=0&k=20&c=GRljdDmAca8zxsY7fLZsxy3N_MKzEi-ANWtBL7Txj3g=",
+        "category": "snacks"
+    },
+    {
+        "name": "Cheese Puffs",
+        "description": "Fluffy and cheesy corn puffs, an irresistible snack.",
+        "price": 2.99,
+        "stock": 100,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/146774092/photo/cheese-flavored-puff-snacks.jpg?s=612x612&w=0&k=20&c=kqSuaCud45cWfdsThxupdD6m2xfYpQ7mElzfDpreXiU=",
+        "category": "snacks"
+    },
+    {
+        "name": "Rice Cakes",
+        "description": "Light and crispy rice cakes, perfect for topping with spreads.",
+        "price": 2.19,
+        "stock": 150,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/185243896/photo/healthy-breakfast.jpg?s=612x612&w=0&k=20&c=xb3G0cTdhi9sDsr0OWJf1yQ0X0C4qRuO2GqDjhOgQnM=",
+        "category": "snacks"
+    },
+    {
+        "name": "Dried Fruit",
+        "description": "Assorted dried fruits like mango, apricot, and pineapple.",
+        "price": 3.49,
+        "stock": 90,
+        "rating": 4.2,
+        "image": "https://media.istockphoto.com/id/496689738/photo/assorted-nuts.jpg?s=612x612&w=0&k=20&c=lJhqPaHqwvXiDFNni5nB9EKgvYlqMEljI-0JzaB-ZNA=",
+        "category": "snacks"
+    },
+    {
+        "name": "Caramel Popcorn",
+        "description": "Popcorn coated in sweet caramel for a delightful treat.",
+        "price": 2.99,
+        "stock": 110,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/497715915/photo/homemade-golden-caramel-popcorn.jpg?s=612x612&w=0&k=20&c=Tfai_XYL_YlaU3bOs4osuW9PV21LyQLjgQx1WwnP7XY=",
+        "category": "snacks"
+    },
+    {
+        "name": "Mixed Nuts",
+        "description": "A blend of roasted nuts, including almonds, cashews, and peanuts.",
+        "price": 4.99,
+        "stock": 75,
+        "rating": 4.7,
+        "image": "https://media.istockphoto.com/id/658447720/photo/assortment-of-nuts-on-rustic-wood-table.jpg?s=612x612&w=0&k=20&c=vl9d2SqXMBukuPKKvt9IyGkT89c91sqUx-RtXoG2ZE0=",
+        "category": "snacks"
+    },
+    {
+        "name": "Gummy Bears",
+        "description": "Chewy and fruity gummy bears in assorted flavors.",
+        "price": 2.49,
+        "stock": 160,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/591825688/photo/fruity-gummy-bears.jpg?s=612x612&w=0&k=20&c=vam9107oX8MC89bNlztTo1ExdewKVOIlcbokcbxuW_I=",
+        "category": "snacks"
+    },
+    {
+        "name": "Tortilla Chips",
+        "description": "Crunchy tortilla chips, perfect for dipping in salsa or guacamole.",
+        "price": 2.39,
+        "stock": 140,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/155284423/photo/a-close-up-of-a-bowl-of-chips-and-salsa.jpg?s=612x612&w=0&k=20&c=wzyKMCYdMVNc8jKHI4GiLaFWy5yhLXY1Q-lpyaBm5rY=",
+        "category": "snacks"
+    },
+    {
+        "name": "Chocolate-Covered Pretzels",
+        "description": "Salty pretzels coated in rich chocolate for a sweet and salty treat.",
+        "price": 3.29,
+        "stock": 100,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/140273647/photo/chocolate-pretzels-nonpareils-and-candy-canes-on-red.jpg?s=612x612&w=0&k=20&c=hhrDDq2-32ui5aKg7EZfIHWfE-7g7mu1SRPHOMIzOIo=",
+        "category": "snacks"
+    },
+    {
+        "name": "Raisins",
+        "description": "Sweet and chewy raisins, a healthy and convenient snack.",
+        "price": 1.99,
+        "stock": 160,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/508523650/photo/raisins-in-a-wooden-spoon.jpg?s=612x612&w=0&k=20&c=C3x8wDM-oYHGAWgiMYa7uVGuujIHGy6h90g1YijG_PI=",
+        "category": "snacks"
+    },
+    {
+        "name": "Sesame Sticks",
+        "description": "Crunchy sesame-flavored sticks, perfect for snacking.",
+        "price": 2.79,
+        "stock": 120,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/453647117/photo/fried-chicken.jpg?s=612x612&w=0&k=20&c=D7eKCHIkOgfWFePQxeR3PATiwD1zsKXcj6WXKCyGJGc=",
+        "category": "snacks"
+    },
+    {
+        "name": "Lentils",
+        "description": "High-quality lentils, perfect for soups and stews.",
+        "price": 2.99,
+        "stock": 150,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/154274640/photo/scoops-of-colored-lentil-spilled-in-pile-on-white-background.jpg?s=612x612&w=0&k=20&c=8fvU83vzyXz_pzR5uvuVsexsEnQQB84-0uxlKCqY6To=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Chickpeas",
+        "description": "Premium chickpeas, great for hummus and curries.",
+        "price": 1.99,
+        "stock": 200,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/486086737/photo/healthy-roasted-seasoned-chick-peas.jpg?s=612x612&w=0&k=20&c=KB7bOe4ty5ZaNA4HbK_qEf5rF7E14K31p3ypDdTCcaw=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Black Beans",
+        "description": "Rich and flavorful black beans, ideal for Mexican dishes.",
+        "price": 2.49,
+        "stock": 120,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/647288166/photo/black-beans-in-a-bowl.jpg?s=612x612&w=0&k=20&c=Tl63z0RYzDW38xdFC2mBpwcyGVNbiUQVGl7OGz6lBpo=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Green Peas",
+        "description": "Sweet and tender green peas, great for side dishes.",
+        "price": 1.79,
+        "stock": 180,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/1286010274/photo/fresh-green-peas-with-greens-and-pea-pods.jpg?s=612x612&w=0&k=20&c=8kANrF3rXaTHsxDKxR5ho3endxMSIjAVWNUJxICEJTI=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Red Lentils",
+        "description": "Quick-cooking red lentils, perfect for dals and curries.",
+        "price": 3.29,
+        "stock": 140,
+        "rating": 4.2,
+        "image": "https://media.istockphoto.com/id/1217607839/photo/dry-split-red-lentils-in-a-silver-bowl-on-wooden-old-table-rustic-style.jpg?s=612x612&w=0&k=20&c=GdOunhYARH99MpOAgEvniVPmHaZsSYssD40mJnfom8g=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Kidney Beans",
+        "description": "Large and hearty kidney beans, ideal for chili recipes.",
+        "price": 2.99,
+        "stock": 160,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/646869882/photo/kidney-beans-in-a-bowl.jpg?s=612x612&w=0&k=20&c=5GDYZ-_1SxFWdgYgjSe-FgO4N6tfmCDK4J3U9yyx-us=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Pinto Beans",
+        "description": "Classic pinto beans, great for refried beans and burritos.",
+        "price": 2.79,
+        "stock": 170,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/647289132/photo/pinto-beans-in-a-bowl.jpg?s=612x612&w=0&k=20&c=SPeQNmPV-jyi4Dt7uKqT0jgtvCPObnlOqTtQ5NH6brQ=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Split Peas",
+        "description": "Yellow split peas, ideal for thick and hearty soups.",
+        "price": 1.59,
+        "stock": 190,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/183324970/photo/green-split-pea.jpg?s=612x612&w=0&k=20&c=rBQlb1gAvdrayz7CaOy7Kt-reuq7DH8nYL6uWBTHRUg=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Cannellini Beans",
+        "description": "Creamy cannellini beans, great for Italian dishes.",
+        "price": 3.49,
+        "stock": 100,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/154996010/photo/white-bean-cannellini-salad.jpg?s=612x612&w=0&k=20&c=UKZYaACZT3KDaQBhU-_0_O6bnrSyqRoiDjkZ1InWOd8=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Mung Beans",
+        "description": "Small and nutritious mung beans, ideal for sprouting.",
+        "price": 2.49,
+        "stock": 130,
+        "rating": 4.2,
+        "image": "https://media.istockphoto.com/id/647288162/photo/mung-beans-in-a-bowl.jpg?s=612x612&w=0&k=20&c=58df_gZryIRIVKX-QOYR5hquyqFxhZrVaN8g5BzXfqE=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Adzuki Beans",
+        "description": "Sweet and nutty adzuki beans, great for desserts.",
+        "price": 3.79,
+        "stock": 110,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/1313946015/photo/red-small-azuki-beans-in-wooden-bowl-isolated-on-white.jpg?s=612x612&w=0&k=20&c=J3bomXw4bkpRwkmdKN9cjak5qZK-tAPZhc8NPamfuuo=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Navy Beans",
+        "description": "Small and tender navy beans, ideal for baked beans.",
+        "price": 2.29,
+        "stock": 150,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/1309769900/photo/baked-beans.jpg?s=612x612&w=0&k=20&c=ZNQfK1hka7aTyFgtH3mQCytahxbknXRzH9d_Y-8GLVU=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Soybeans",
+        "description": "Protein-rich soybeans, great for tofu and soy products.",
+        "price": 2.99,
+        "stock": 130,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/489566212/photo/soy-products.jpg?s=612x612&w=0&k=20&c=56LtaOOK0BP72VAWmrxMY8x0Gzqs_0jdDJKyj1qLBs8=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Garbanzo Beans",
+        "description": "Versatile garbanzo beans, perfect for salads and curries.",
+        "price": 2.49,
+        "stock": 170,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/936322850/photo/indian-cuisine-roasted-chickpeas-with-lime-and-rosemary.jpg?s=612x612&w=0&k=20&c=3wv6zG9ktRmniY_QWRjrB3q9cbHpPqwL70UsaP7fxkg=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Black-eyed Peas",
+        "description": "Classic black-eyed peas, great for Southern recipes.",
+        "price": 2.29,
+        "stock": 160,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/174997062/photo/cooked-black-eyed-peas.jpg?s=612x612&w=0&k=20&c=hu7pXnwShf0Qg-xuyf0AJqwZ5osZjrK0qMU43oQza_M=",
+        "category": "Pulses"
+    },
+    {
+        "name": "Milk",
+        "description": "Fresh and creamy cow's milk.",
+        "price": 2.49,
+        "stock": 150,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/1197838680/photo/various-kinds-of-vegan-milk.jpg?s=612x612&w=0&k=20&c=6VGC5R9qc4NS9F7Iwp9UlJLqfDVeaEMjQLKeizSh6cA=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Eggs",
+        "description": "Farm-fresh eggs, perfect for baking and breakfast.",
+        "price": 1.99,
+        "stock": 200,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/1157804675/photo/brown-eggs-in-a-plate.jpg?s=612x612&w=0&k=20&c=oIUA_5Qu75uZ7wXU-hPNsm6H_D2_hWOG_achilrFvas=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Butter",
+        "description": "Rich and creamy butter, great for cooking and baking.",
+        "price": 3.99,
+        "stock": 100,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/179875636/photo/butter.jpg?s=612x612&w=0&k=20&c=dQjAemP1f3RDr64uN7gN5TQCZI6XkkgijtWYo9yTB7o=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Cheese",
+        "description": "Assorted cheese varieties, ideal for charcuterie boards.",
+        "price": 4.79,
+        "stock": 120,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/178421857/photo/various-types-of-cheese.jpg?s=612x612&w=0&k=20&c=7OJWQOlQASFNmKmgAjf-QpCsIC4lhMylHyXvxBVOJRg=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Yogurt",
+        "description": "Creamy and probiotic-rich yogurt in various flavors.",
+        "price": 2.29,
+        "stock": 180,
+        "rating": 4.2,
+        "image": "https://media.istockphoto.com/id/1008860374/photo/yogurt-in-bowl-on-rustic-black-table-photo-of-plain-natural-organic-yoghurt-close-up.jpg?s=612x612&w=0&k=20&c=sU5oKagNRme86nSAnIJZk0JGMcD_C0S1CrppolOA80g=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Sour Cream",
+        "description": "Smooth and tangy sour cream, great for dips and toppings.",
+        "price": 1.59,
+        "stock": 140,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/675587248/photo/sour-cream-with-onion-isolated-on-white-background-with-clipping-path-one-of-the-collection-of.jpg?s=612x612&w=0&k=20&c=QldVW6y8BBAxjUrqJUAq00rdXEHw-QHQ6EKEMekb6-s=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Cottage Cheese",
+        "description": "Creamy and curdled cottage cheese, great for salads.",
+        "price": 2.99,
+        "stock": 160,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/979356494/photo/ricotta-cheese-cottage-cheese-farmers-cheese-curd-or-tvorog-in-a-wooden-bowl.jpg?s=612x612&w=0&k=20&c=1wYRUpZf6er8gDSoOlK7yLDYMyzmjO0OLhsBZjxFspM=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Mozzarella Cheese",
+        "description": "Stringy and mild mozzarella cheese, great for pizzas.",
+        "price": 3.29,
+        "stock": 190,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/457757205/photo/mozzarella.jpg?s=612x612&w=0&k=20&c=BaQemEDU9rr_q6WpLx0gClvSowVw1jb1p-5d0Uyhagw=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Parmesan Cheese",
+        "description": "Grated parmesan cheese, ideal for pasta dishes.",
+        "price": 3.79,
+        "stock": 110,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/188142058/photo/parmesan-cheese.jpg?s=612x612&w=0&k=20&c=P4qKuMZbRAzk4pHk0lsHqQ-3Pq6nxrN2TiuTtXiiO9c=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Feta Cheese",
+        "description": "Salty and crumbly feta cheese, great for salads.",
+        "price": 2.29,
+        "stock": 140,
+        "rating": 4.2,
+        "image": "https://media.istockphoto.com/id/488226285/photo/cheese.jpg?s=612x612&w=0&k=20&c=ofBlw7mZ44mW0uZv6qgtGd-rrWbMx6S_x_-ualfkzGs=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Chocolate Milk",
+        "description": "Delicious and sweet chocolate-flavored milk.",
+        "price": 2.99,
+        "stock": 100,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/453427657/photo/chocolate-milk-on-a-glass-with-red-straw.jpg?s=612x612&w=0&k=20&c=Cr2HDaZCZzwX_gp8r4I6_0o1rZt3HZuoZrInc_t6CsM=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Almond Milk",
+        "description": "Nutty and dairy-free almond milk.",
+        "price": 3.49,
+        "stock": 75,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/1272353187/photo/almond-milk-wood-background.jpg?s=612x612&w=0&k=20&c=8A2DuPmUktHadRQIfP34Pisw7LfFQ4iYKGkVUza4ENI=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Goat Cheese",
+        "description": "Creamy and tangy goat cheese, ideal for appetizers.",
+        "price": 3.29,
+        "stock": 110,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/511852087/photo/slices-of-goat-cheese-with-fresh-thyme.jpg?s=612x612&w=0&k=20&c=IEguHfoJrQPXexnSs6VbS0Ku-Ap-bBo76PEfK0okeXk=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Provolone Cheese",
+        "description": "Sharp and semi-hard provolone cheese, great for sandwiches.",
+        "price": 2.79,
+        "stock": 95,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/1093644722/photo/scamorza-italian-smoked-cheese.jpg?s=612x612&w=0&k=20&c=1_btoUeeW7Fmj-OUVpfABORcAOf7ahtKWZNILrwFkzE=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Custard",
+        "description": "Smooth and velvety custard, perfect for desserts.",
+        "price": 4.99,
+        "stock": 60,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/139483187/photo/creme-caramel-on-wood-table.jpg?s=612x612&w=0&k=20&c=df1dOJqGVWzKCkbPrYLa0kBlZawb8Fo63MIvmkq_quI=",
+        "category": "Dairy"
+    },
+    {
+        "name": "Canned Tomato Soup",
+        "description": "Classic tomato soup in a convenient can.",
+        "price": 2.49,
+        "stock": 150,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/98123275/vector/retro-tomato-soup-can.jpg?s=612x612&w=0&k=20&c=xRGpbkvERC2rd-wfj9UiKabJiwOSzJv2qIkd0BJU2kQ=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Corn",
+        "description": "Sweet and tender corn kernels, perfect for side dishes.",
+        "price": 1.99,
+        "stock": 200,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/466991841/photo/isolated-canned-corn.jpg?s=612x612&w=0&k=20&c=VDwKBpauemZTuR512o-8lsLFi8KKM9L-cryRAsA-p78=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Tuna",
+        "description": "Flaky and flavorful tuna in a can, great for salads and sandwiches.",
+        "price": 2.79,
+        "stock": 100,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/486168198/photo/tunafish-in-a-can-with-a-fork.jpg?s=612x612&w=0&k=20&c=cVUBfeLau6SMKB3oEaY69sdV1swJPQqh3ZY_Qt6iDsY=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Peaches",
+        "description": "Sweet and succulent peach halves in syrup.",
+        "price": 2.29,
+        "stock": 140,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/814237020/photo/pickled-apricots.jpg?s=612x612&w=0&k=20&c=gVIP2SIl4F74tpgKALLEpgZl32cT-ztahYAd-eQzdSc=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Sardines",
+        "description": "Sardines packed in oil or tomato sauce, great for snacks.",
+        "price": 1.59,
+        "stock": 90,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/1249336012/photo/ripe-peas-in-pods-and-an-open-can-of-canned-peas.jpg?s=612x612&w=0&k=20&c=1dzITmNcOHXqVMWVllym-e_PvahuYOKMF8tBI0rNlkk=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Green Beans",
+        "description": "Crunchy and flavorful green beans in a can.",
+        "price": 2.99,
+        "stock": 160,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/1054081972/photo/preserving-green-beans-in-a-jar.jpg?s=612x612&w=0&k=20&c=W6xvdq3_Uz2MGXfXPcoLzYCYYHcg7cGu5yQhNuyoPk4=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Salmon",
+        "description": "Premium canned salmon, perfect for salads and pasta dishes.",
+        "price": 3.49,
+        "stock": 170,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/155159214/photo/canned-tuna-chunks-in-a-bowl-garnished-with-tomatoes.jpg?s=612x612&w=0&k=20&c=zRjd64bunaI53j876bvvhdTUVp5mdp1cuI-JMUUHoSM=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Mandarin Oranges",
+        "description": "Tangy mandarin orange segments in light syrup.",
+        "price": 2.79,
+        "stock": 190,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/508184790/photo/natural-organic-canned-mandarin-in-syrup.jpg?s=612x612&w=0&k=20&c=BCsIQr7AFR_Y7KbfeQvn8piiSUnuBYhQeLOKBo-hXOc=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Diced Tomatoes",
+        "description": "Diced tomatoes in a can, great for sauces and soups.",
+        "price": 1.99,
+        "stock": 130,
+        "rating": 4.2,
+        "image": "https://media.istockphoto.com/id/512457762/photo/open-tin-of-chopped-tomatoes.jpg?s=612x612&w=0&k=20&c=EAVw3I4HWqW5TxAMWaMekrwcK2yNT21qG1upzlXKUcM=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Mixed Vegetables",
+        "description": "A mix of canned vegetables, perfect for stir-fries.",
+        "price": 2.79,
+        "stock": 110,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/1436439582/photo/preserved-vegetables-in-the-jars.jpg?s=612x612&w=0&k=20&c=izr0Hn0J3M1ZKSw6BVCAIxfEvS5NyYx2gu1DVtDI6Vs=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Peas and Carrots",
+        "description": "Sweet peas and carrots in a can, ideal for side dishes.",
+        "price": 2.49,
+        "stock": 140,
+        "rating": 4.2,
+        "image": "https://media.istockphoto.com/id/495686499/photo/tin-of-peas-and-carrots.jpg?s=612x612&w=0&k=20&c=gvujOf25CvBnRR5vQYqqtM38F_lzJZeZhRE3QtwgdY0=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Mushroom Soup",
+        "description": "Creamy mushroom soup in a convenient can.",
+        "price": 2.99,
+        "stock": 120,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/458673837/photo/campbells-condensed-cream-of-mushroom-soup.jpg?s=612x612&w=0&k=20&c=L1tPJn59wzwUqTs8MA5tnMqIxHcpCGVoeODtkqzJA-g=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Artichoke Hearts",
+        "description": "Tender artichoke hearts in brine, great for salads and dips.",
+        "price": 3.79,
+        "stock": 95,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/508709282/photo/canned-food.jpg?s=612x612&w=0&k=20&c=WLbp22KNGfemYBCYDu4o_a4fR2ECaywvPz9tgp2GAyo=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Asparagus Spears",
+        "description": "Crisp asparagus spears in a can, perfect for side dishes.",
+        "price": 2.29,
+        "stock": 130,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/494447380/photo/glass-jars-full-of-preserved-vegetables.jpg?s=612x612&w=0&k=20&c=fbpOqR-1q-DjhBXZWwwPqUlAVVMvSyt2UbMhTqDjbCg=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Pumpkin",
+        "description": "Pureed pumpkin in a can, great for pies and soups.",
+        "price": 2.79,
+        "stock": 160,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/1343523764/photo/homemade-pumpkin-soup-in-glasses.jpg?s=612x612&w=0&k=20&c=gWa2gBddxVilV8BcSnS21WWYlFGqYEXHZ7fOz8Ys6Dc=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Fruit Cocktail",
+        "description": "Assorted fruits in light syrup, perfect for desserts.",
+        "price": 2.99,
+        "stock": 150,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/912754952/vector/fruit-salad-in-aluminum-can.jpg?s=612x612&w=0&k=20&c=XifvMVY15GrhTKUAHH37n7BkC8mt2HLze8LhsvYdXE8=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Canned Beef Stew",
+        "description": "Hearty canned beef stew with vegetables, great for a quick meal.",
+        "price": 3.49,
+        "stock": 170,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/459393071/photo/collection-of-a-variety-of-common-canned-goods.jpg?s=612x612&w=0&k=20&c=84QRIL01x9k3M8l2GSaZsujvImwWUWq48rBGfCe-Acw=",
+        "category": "Canned Goods"
+    },
+    {
+        "name": "Moisturizing Yogurt Lotion",
+        "description": "Hydrating lotion enriched with yogurt extracts for all-day moisturization.",
+        "price": 8.49,
+        "stock": 75,
+        "rating": 4.2,
+        "image": "https://media.istockphoto.com/id/1126209399/photo/natural-skincare-body-butter-cream-glass-jar-with-honey-fresh-blossom-top-view.jpg?s=612x612&w=0&k=20&c=385obEM6oSmhexSSfO3_JAufGoXhhfXlCKDdA0yWJfs=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Creamy Milk Shampoo",
+        "description": "Nourishing shampoo infused with creamy milk proteins for shiny hair.",
+        "price": 6.99,
+        "stock": 90,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/1160717395/photo/plastic-bottles-of-body-care-and-beauty-products.jpg?s=612x612&w=0&k=20&c=e97i-dT4HtwhOCrLgkGdiUw8kFcX9uGWOj18Y--ATFk=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Probiotic Body Wash",
+        "description": "Gentle body wash with probiotics for a healthy and balanced skin microbiome.",
+        "price": 7.99,
+        "stock": 80,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/1304078128/photo/close-up-photo-of-open-canned-meat.jpg?s=612x612&w=0&k=20&c=DV4WBu65M079awAfr3vNNi7jnLz22ftiU1o-5TQGUoI=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Protein-Enriched Hair Conditioner",
+        "description": "Conditioner infused with dairy protein to strengthen and nourish hair.",
+        "price": 7.49,
+        "stock": 70,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/1453633993/photo/powdered-milk-and-oatmeal-banana-baby-food-mix-on-blue-wooden-side-view.jpg?s=612x612&w=0&k=20&c=PUOMZpt0xt9U-poXLOjxh9Z6NsVJTZ24IyLGstBk6pc=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Calcium-Rich Toothpaste",
+        "description": "Toothpaste fortified with dairy calcium for strong and healthy teeth.",
+        "price": 3.99,
+        "stock": 150,
+        "rating": 4.7,
+        "image": "https://media.istockphoto.com/id/694285666/vector/toothpaste-package-design.jpg?s=612x612&w=0&k=20&c=6iPuOyoKS_xXlU7SkU8dufhq1SXOeMIyBtjU3uEm-0E=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Whipped Body Butter",
+        "description": "Luxurious body butter with a whipped texture for deep skin hydration.",
+        "price": 10.99,
+        "stock": 50,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/1366014704/photo/making-bodywhip-also-known-as-body-butter-skin-care-moisturizer-cream-ingredients-on-wood.jpg?s=612x612&w=0&k=20&c=ME-dvkkj3y4dTACBD1khxq65Pxlhae_WZE97JUQhmrI=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Yogurt and Honey Lip Balm",
+        "description": "Nourishing lip balm with the goodness of yogurt and honey.",
+        "price": 2.99,
+        "stock": 200,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/1188876612/photo/natural-and-organic-cosmetic-concept.jpg?s=612x612&w=0&k=20&c=wU0SnhM9tHimliFeU1QC66CyR2nW057Ves0zwYI9duA=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Milk Bath Soap Bars",
+        "description": "Gentle milk-based soap bars for a luxurious bath experience.",
+        "price": 6.49,
+        "stock": 80,
+        "rating": 4.3,
+        "image": "https://media.istockphoto.com/id/953851624/photo/natural-cosmetics-and-rose-petals-on-shale.jpg?s=612x612&w=0&k=20&c=k-IgeuakNC8Je-Yj8KtAY4yT5HHSNb7fASVSgnVyxtg=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Probiotic Deodorant",
+        "description": "Deodorant with probiotics to keep you feeling fresh all day.",
+        "price": 5.99,
+        "stock": 120,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/1206143645/photo/scoop-of-fish-collagen-collagen-peptides-in-container-or-jar-healthcare-supplement-concept.jpg?s=612x612&w=0&k=20&c=c7yyt7QipBVMTvAejRSay9eg2sv3DDbr4KQMFo6j56E=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Milk and Honey Body Scrub",
+        "description": "Exfoliating body scrub with the soothing combination of milk and honey.",
+        "price": 8.99,
+        "stock": 70,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/1172213132/photo/neem-or-indian-lilac-face-mask-on-the-black-wooden-surface-for-anti-aging-benefits-of-neem.jpg?s=612x612&w=0&k=20&c=dWJ__DlKoVpY3f2WkIA0-irsJRY0e9qLpguNaj7iSzE=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Yogurt Hair Mask",
+        "description": "Deep conditioning hair mask enriched with yogurt extracts for silky hair.",
+        "price": 7.99,
+        "stock": 60,
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/960327142/photo/avocado-olive-oil-yogurt-and-egg-yolk-for-hair-mask.jpg?s=612x612&w=0&k=20&c=j1ghEZLxRNq-LCq-c9A3QhQjIOJFEb4vkDPNXFvYrpE=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Vitamin-Enriched Dairy Face Serum",
+        "description": "Face serum packed with vitamins derived from dairy products for a healthy complexion.",
+        "price": 11.49,
+        "stock": 50,
+        "rating": 4.7,
+        "image": "https://media.istockphoto.com/id/981755234/photo/close-up-of-cream-of-ajowan-or-trachyspermum-ammi-or-oomam-or-bishop%C3%A2s-weed-leaves-on-wooden.jpg?s=612x612&w=0&k=20&c=mVDccm4WYAN46OXMmyO-XPGbXyOrGwB_mkzoePv2Rdg=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Protein-Rich Body Wash",
+        "description": "Body wash formulated with dairy proteins to nourish and moisturize the skin.",
+        "price": 6.99,
+        "stock": 90,
+        "rating": 4.4,
+        "image": "https://media.istockphoto.com/id/890779024/photo/healthy-breakfast-granola-with-fresh-berries-and-nuts-organic-food.jpg?s=612x612&w=0&k=20&c=HXi85X7sxUIyIltHpl17n49IeVvFJMUqRWUmHp9Qd2o=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Milk and Oatmeal Bath Soak",
+        "description": "Relaxing bath soak made with milk and oatmeal to soothe and soften the skin.",
+        "price": 5.49,
+        "stock": 80,
+        "rating": 4.5,
+        "image": "https://media.istockphoto.com/id/1302241591/photo/oatmeal-oat-flakes-in-bowl-healthy-breakfast-with-oatmeal-oatmeal-and-black-background.jpg?s=612x612&w=0&k=20&c=KB1NFVlcn0MH5Y--XcSKRZyGHWNWvAybOSYviONiVzs=",
+        "category": "Personal Care"
+    },
+    {
+        "name": "Yogurt Face Cleanser",
+        "description": "Gentle face cleanser enriched with yogurt extracts for a clean and refreshed complexion.",
+        "price": 3.99,
+        "stock": 110,
+        "rating": 4.2,
+        "image": "https://media.istockphoto.com/id/542311206/photo/herbal-cosmetic-acne-cream-with-calendula-skincare-natural-organic-moisturizer.jpg?s=612x612&w=0&k=20&c=p9Zh9q0qYtEuB28zsnfXyw436Sw8N4Vi2VsudHgitrg=",
+        "category": "Personal Care"
+    }
+]
