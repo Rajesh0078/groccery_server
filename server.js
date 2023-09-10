@@ -17,19 +17,22 @@ app.use(cors())
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
-app.use("", router)
-app.use('/api', authRouter)
+
+
+
 app.get("/user", authMiddleware, async (req, res) => {
     try {
         let exist = await userModel.findById(req.user.id)
         if (!exist) {
             return res.send("user not found")
         }
-        res.send(exist)
+        res.json(exist)
     } catch (error) {
         console.log(error)
     }
 })
+app.use('/api', authRouter)
+app.use("", router)
 
 app.listen(port, () => {
     console.log(`server is running on ${port} value`)

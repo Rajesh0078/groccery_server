@@ -25,22 +25,25 @@ const loginCtrl = async (req, res) => {
     try {
         const { email, password } = req.body
         const findUser = await User.findOne({ email: email })
-        if (findUser) {
-            let payload = {
-                user: {
-                    id: findUser.id
-                }
-            }
-            jwt.sign(payload, "jwtsecretKey", { expiresIn: 3600000 }, (err, token) => {
-                if (err) throw err;
-                return res.json({ token })
-            })
-        }
-        else {
+        if (!findUser) {
             res.json({
                 msg: "User not found"
             })
         }
+        if (findUser.password !== password) {
+            res.json({
+                msg: "password not matches"
+            })
+        }
+        let payload = {
+            user: {
+                id: findUser.id
+            }
+        }
+        jwt.sign(payload, "jwtsecretKey", { expiresIn: 3600000 }, (err, token) => {
+            if (err) throw err;
+            return res.json({ token })
+        })
     }
     catch (error) {
         console.log(error)

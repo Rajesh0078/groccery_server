@@ -8,7 +8,7 @@ module.exports = (req, res, next) => {
         }
         let decode = jwt.verify(token, "jwtsecretKey")
         req.user = decode.user
-        next()
+        next();
     } catch (error) {
         console.log(error)
     }

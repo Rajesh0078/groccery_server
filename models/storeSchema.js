@@ -22,11 +22,13 @@ const storeSchema = new mongoose.Schema({
         required: true
     },
     products: [{
-        product_id: String,
         name: String,
+        description: String,
         category: String,
-        price: String,
-        quantity_in_stock: Number
+        stock: Number,
+        rating: Number,
+        price: Number,
+        image: String
     }],
 })
 
