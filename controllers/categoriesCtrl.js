@@ -52,7 +52,7 @@ const navCategoryCtrl = async (req, res) => {
         res.send(sortedData)
     }
     else {
-        res.send(result)
+        res.send(finalResponse)
     }
     //res.send(responses)
 }
