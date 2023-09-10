@@ -14,13 +14,13 @@ const navCategoryCtrl = async (req, res) => {
     }
     const responses = await storeData.find(payload)
 
-    const result = []
+    const finalResponse = []
 
     for (const response of responses) {
         const products = response.products.filter((item) => item.category === value)
         for (let product of products) {
             if (products.length > 0) {
-                result.push({
+                finalResponse.push({
                     name: response.name,
                     id: response.id,
                     address: response.address,
@@ -38,7 +38,7 @@ const navCategoryCtrl = async (req, res) => {
         }
     }
     if (sort) {
-        let sortedData = result.sort((a, b) => {
+        let sortedData = finalResponse.sort((a, b) => {
             if (sort === 1) {
                 return b.product_price - a.product_price
             }
