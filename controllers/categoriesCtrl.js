@@ -57,4 +57,12 @@ const navCategoryCtrl = async (req, res) => {
     //res.send(responses)
 }
 
-module.exports = { categoriesCtrl, navCategoryCtrl }
+const filterInData = async (req, res) => {
+    const response = await storeData.find({})
+    let city = {}
+    city.city = (Array(...new Set(response.map((city) => city.city))))
+    city.name = (Array(...new Set(response.map((city) => city.name))))
+    res.send(city)
+}
+
+module.exports = { categoriesCtrl, navCategoryCtrl, filterInData }
