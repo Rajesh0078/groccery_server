@@ -25,6 +25,7 @@ const loginCtrl = async (req, res) => {
     try {
         const { email, password } = req.body
         const findUser = await User.findOne({ email: email })
+
         if (!findUser) {
             res.json({
                 msg: "User not found"
@@ -35,6 +36,8 @@ const loginCtrl = async (req, res) => {
                 msg: "password not matches"
             })
         }
+        //res.send(findUser)
+
         let payload = {
             user: {
                 id: findUser.id

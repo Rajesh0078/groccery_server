@@ -31,7 +31,7 @@ app.get("/user", authMiddleware, async (req, res) => {
         console.log(error)
     }
 })
-app.use('/api', authRouter)
+app.use('', authRouter)
 app.use("", router)
 
 app.listen(port, () => {
