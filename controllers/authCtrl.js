@@ -3,17 +3,23 @@ const jwt = require("jsonwebtoken")
 
 const createUser = async (req, res) => {
     try {
-        const { email } = req.body
+        const { email, password, cpassword } = req.body
         const findUser = await User.findOne({ email: email })
-        if (!findUser) {
-            const newUser = await User.create(req.body)
-            res.send(newUser)
-        }
-        else {
+        if (findUser) {
             res.json({
                 msg: "user already exists",
                 success: false
             })
+        }
+        if (password !== cpassword) {
+            res.json({
+                msg: "password does not matches",
+                success: false
+            })
+        }
+        else {
+            const newUser = await User.create(req.body)
+            res.send(newUser)
         }
     } catch (error) {
         console.log(error)
