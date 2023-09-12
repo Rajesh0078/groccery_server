@@ -20,7 +20,16 @@ const userSchema = new mongoose.Schema({
     cpassword: {
         type: String,
         required: true
-    }
+    },
+    cart: [{
+        name: String,
+        description: String,
+        category: String,
+        stock: Number,
+        rating: Number,
+        price: Number,
+        image: String
+    }]
 }, { timestamps: true })
 
 module.exports = mongoose.model("User", userSchema)
