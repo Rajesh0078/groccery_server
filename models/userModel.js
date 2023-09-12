@@ -28,7 +28,8 @@ const userSchema = new mongoose.Schema({
         stock: Number,
         rating: Number,
         price: Number,
-        image: String
+        image: String,
+        store: String
     }]
 }, { timestamps: true })
 
