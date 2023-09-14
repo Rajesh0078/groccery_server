@@ -41,4 +41,20 @@ const getCart = async (req, res) => {
     }
 }
 
-module.exports = { createCart, getCart }
+const removeCart = async (req, res) => {
+    try {
+        const { name, user } = req.body
+        const findUser = await User.find({ email: user })
+        if (findUser) {
+            const data = await User.updateOne({ email: user }, { $pull: { cart: { name: name } } })
+            res.send(data)
+        }
+        //const findProduct = await User.find({"cart.name":{$in: name}})
+
+    } catch (error) {
+        console.log(error)
+    }
+}
+
+
+module.exports = { createCart, getCart, removeCart }
